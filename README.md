@@ -1,3 +1,13 @@
+<h3>Wire Frame<h3/>
+<ul>
+  <li>Create a dropdown menu that allows the user to choose the resource they are looking for<li/>
+  <li>Next to the dropdown menu, create an input field that accepts a number that will be used to query a specific id.<li/>
+  <li>Add a button to allow them to send a request to the API.<li/>
+  <li>On submission, navigate to the appropriate route and render at least 4 attributes for that specific resource.<li/>
+<ul/>
+<img src="/src/assets/luke-wire-frame.png" height="300px"/>
+<img src="/src/assets/luke-wire-frame-1.png" height="300px"/>
+<img src="/src/assets/luke-wire-frame-2.png" height="300px"/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
