@@ -1,0 +1,27 @@
+.form-display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+label{
+    font-size: 1.2rem;
+}
+
+select {
+    height: 1.5rem;
+}
+
+.people-display{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.planet-display{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
