@@ -21,6 +21,8 @@ const Home = () => {
         setSearch(e.target.value)
     }
 
+
+
     // const handleFormSubmit = (e) => {
     //     e.preventDefault()
     //     if(search === "people") {
